@@ -3,6 +3,7 @@
 Donation Point
 
 Donation Point is a full-stack web application that allows users to donate to various causes seamlessly. The platform provides an easy-to-use interface for making donations, tracking contributions, and supporting charitable organizations.
+![image](https://github.com/user-attachments/assets/26432869-ef50-4039-9eac-8878a48b885c)
 
 🚀 Features
 
@@ -42,6 +43,9 @@ Razorpay Integration (for payment processing)
 
 Render (for backend hosting)
 
+
+![image](https://github.com/user-attachments/assets/053c9070-53ed-4344-9ecd-d0bd75bcd0ac)
+
 🌐 Deployment
 
 Backend (Hosted on Render)
@@ -79,6 +83,7 @@ JWT_SECRET=your_secret_key
 CORS_ORIGIN=https://donation-point-git-main-omkartuptewars-projects.vercel.app
 RAZORPAY_KEY_ID=your_razorpay_key_id
 RAZORPAY_KEY_SECRET=your_razorpay_key_secret
+![image](https://github.com/user-attachments/assets/f8af18e7-7c4e-4955-8eb3-e2f33f104952)
 
 📌 Issues & Contributions
 
