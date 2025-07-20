@@ -85,16 +85,6 @@ RAZORPAY_KEY_ID=your_razorpay_key_id
 RAZORPAY_KEY_SECRET=your_razorpay_key_secret
 ![image](https://github.com/user-attachments/assets/f8af18e7-7c4e-4955-8eb3-e2f33f104952)
 
-📌 Issues & Contributions
-
-Feel free to raise an issue or contribute by forking the repository and submitting a pull request.
-
-📜 License
-
-This project is MIT Licensed.
-
-🌟 Support the Project
-
 If you like this project, don't forget to star the repository ⭐ on GitHub!
 
 💡 Developer
