@@ -40,8 +40,7 @@
  | <img width="1616" height="727" alt="image" src="https://github.com/user-attachments/assets/15c54020-6b82-412f-907e-bfae6309ee6b" />
  | <img width="1118" height="541" alt="image" src="https://github.com/user-attachments/assets/9b11b601-0d5d-4c96-8440-3c54eea8be85" />
  |
-|:--:|:--:|:--:|
-| **Home Page** | **Donation Page** | **Payment Integration** |
+
 
 ---
 
@@ -81,6 +80,7 @@ Donation-Point/
 
 Developed By 
 Vishal Maurya
+
 
 
 
