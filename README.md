@@ -36,7 +36,9 @@
 
 | Home Page | Donation Page | Payment Integration |
 |------------|----------------|--------------------|
-| ![Home](https://private-user-images.githubusercontent.com/128322674/427736992-26432869-ef50-4039-9eac-8878a48b885c.png) | ![Donate](https://private-user-images.githubusercontent.com/128322674/427737276-053c9070-53ed-4344-9ecd-d0bd75bcd0ac.png) | ![Payment](https://private-user-images.githubusercontent.com/128322674/427737522-f8af18e7-7c4e-4955-8eb3-e2f33f104952.png) |
+| <img src="https://private-user-images.githubusercontent.com/128322674/427736992-26432869-ef50-4039-9eac-8878a48b885c.png" width="512"/> | <img src="https://private-user-images.githubusercontent.com/128322674/427737276-053c9070-53ed-4344-9ecd-d0bd75bcd0ac.png" width="512"/> | <img src="https://private-user-images.githubusercontent.com/128322674/427737522-f8af18e7-7c4e-4955-8eb3-e2f33f104952.png" width="512"/> |
+|:--:|:--:|:--:|
+| **Home Page** | **Donation Page** | **Payment Integration** |
 
 ---
 
@@ -76,4 +78,5 @@ Donation-Point/
 
 Developed By 
 Vishal Maurya
+
 
